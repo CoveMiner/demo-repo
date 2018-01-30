@@ -7,9 +7,9 @@ Enterprise Ape
 Powerful Software
 -----------------
 
-###Welcome to the repository
+### Welcome to the repository
 
-Feel free to access [my portfolio(http://www.covewest.net).]
+Feel free to access [my portfolio](http://www.covewest.net)
  
 > ## Aenean imperdiet feugiat felis sed ultricies
 >
