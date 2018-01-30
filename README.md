@@ -17,11 +17,11 @@ Feel free to access [my portfolio(http://www.covewest.net).]
 
 ### Crazy good software
 
-*Rapid development
-+Tested
--24/7 support
+* Rapid development
++ Tested
+- 24/7 support
 
-### Reasons to choose use
+### Reasons to choose us
 1. Price
 2. Precision
 3. Performance
