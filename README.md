@@ -13,7 +13,7 @@ Feel free to access [my portfolio](http://www.covewest.net)
  
 > ## Aenean imperdiet feugiat felis sed ultricies
 >
->Proin ultricies urna nec lobortis consectetur. Curabitur eu lobortis felis, ut malesuada purus. Nam ultricies dolor quis lobortis tempus. Nullam faucibus mauris ullamcorper *ornare venenatis.*
+>Proin ultricies urna nec lobortis consectetur. Curabitur eu lobortis felis, ut malesuada purus. Nam ultricies dolor quis **lobortis tempus**. Nullam faucibus mauris ullamcorper *ornare venenatis.*
 
 ### Crazy good software
 
